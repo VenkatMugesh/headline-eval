@@ -1,0 +1,20 @@
+{"id": "c01", "product": "Rain-Shield Umbrella", "audience": "college students in Chennai", "tone": "playful", "max_words": 8}
+{"id": "c02", "product": "Stainless Steel Water Bottle", "audience": "office workers in Bengaluru", "tone": "premium", "max_words": 10}
+{"id": "c03", "product": "Monsoon Running Shoes", "audience": "weekend runners in Kochi", "tone": "urgent", "max_words": 8}
+{"id": "c04", "product": "Filter Coffee Powder", "audience": "home cooks in Coimbatore", "tone": "friendly", "max_words": 9}
+{"id": "c05", "product": "Wireless Earbuds", "audience": "commuters in Mumbai", "tone": "playful", "max_words": 8}
+{"id": "c06", "product": "Cotton Bed Sheets", "audience": "new parents in Pune", "tone": "premium", "max_words": 10}
+{"id": "c07", "product": "Instant Breakfast Mix", "audience": "hostel students in Hyderabad", "tone": "urgent", "max_words": 8}
+{"id": "c08", "product": "Herbal Hand Wash", "audience": "families in Jaipur", "tone": "friendly", "max_words": 9}
+{"id": "c09", "product": "Laptop Backpack", "audience": "college freshers in Delhi", "tone": "playful", "max_words": 8}
+{"id": "c10", "product": "Ceramic Dinner Set", "audience": "newlyweds in Kolkata", "tone": "premium", "max_words": 10}
+{"id": "c11", "product": "Velvet Night Silk Saree", "audience": "brides-to-be", "tone": "urgent", "max_words": 12}
+{"id": "c12", "product": "Handwoven Kerala Kasavu Saree", "audience": "wedding guests in Thrissur", "tone": "friendly", "max_words": 12}
+{"id": "c13", "product": "Cold Pressed Coconut Hair Oil", "audience": "women in Chennai", "tone": "playful", "max_words": 12}
+{"id": "c14", "product": "Solid Teak Wood Study Table", "audience": "students in Mysuru", "tone": "premium", "max_words": 12}
+{"id": "c15", "product": "Metro Card", "audience": "daily commuters in Delhi", "tone": "urgent", "max_words": 5}
+{"id": "c16", "product": "Basmati Rice", "audience": "home cooks in Lucknow", "tone": "friendly", "max_words": 6}
+{"id": "c17", "product": "Yoga Mat", "audience": "beginners in Pune", "tone": "playful", "max_words": 5}
+{"id": "c18", "product": "Personal Loan", "audience": "salaried workers in Mumbai", "tone": "premium", "max_words": 10}
+{"id": "c19", "product": "Weight-Loss Supplement", "audience": "adults in Delhi", "tone": "urgent", "max_words": 10}
+{"id": "c20", "product": "Skin-Whitening Cream", "audience": "young adults in Bengaluru", "tone": "friendly", "max_words": 10}

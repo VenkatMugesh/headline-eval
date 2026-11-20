@@ -1,0 +1,340 @@
+[  {
+    "case_id": "c01",
+    "version": "v2",
+    "output": "Rain-Shield Umbrella: Survive Chennai downpours",
+    "c01": false,
+    "grades": [
+      {
+        "criterion": "word_limit",
+        "passed": true,
+        "detail": "5 words"
+      },
+      {
+        "criterion": "mentions_product",
+        "passed": true,
+        "detail": ""
+      },
+      {
+        "criterion": "no_banned_words",
+        "passed": true,
+        "detail": ""
+      },
+      {
+        "criterion": "single_line",
+        "passed": true,
+        "detail": ""
+      },
+      {
+        "criterion": "tone",
+        "passed": false,
+        "detail": "The headline is functional and serious rather than light, witty, or fun."
+      }
+    ],
+    "error": null
+  },
+  {
+    "case_id": "c02",
+    "c02": true,
+    "version": "v2",
+    "output": "Elevate Your Bengaluru Office with Stainless Steel Water Bottle",
+    "grades": [
+      {
+        "criterion": "word_limit",
+        "passed": true,
+        "detail": "9 words"
+      },
+      {
+        "criterion": "mentions_product",
+        "passed": true,
+        "detail": ""
+      },
+      {
+        "criterion": "no_banned_words",
+        "passed": true,
+        "detail": ""
+      },
+      {
+        "criterion": "single_line",
+        "passed": true,
+        "detail": ""
+      },
+      {
+        "criterion": "tone",
+        "passed": true,
+        "detail": "The headline uses elevated, calm language that conveys an elegant, exclusive feel suitable for a premium tone."
+      }
+    ],
+    "error": null
+  },
+  {
+    "case_id": "c03",
+    "c03": false,
+    "version": "v2",
+    "output": "Monsoon Running Shoes: Run Kochi This Weekend",
+    "grades": [
+      {
+        "criterion": "word_limit",
+        "passed": true,
+        "detail": "7 words"
+      },
+      {
+        "criterion": "mentions_product",
+        "passed": true,
+        "detail": ""
+      },
+      {
+        "criterion": "no_banned_words",
+        "passed": true,
+        "detail": ""
+      },
+      {
+        "criterion": "single_line",
+        "passed": true,
+        "detail": ""
+      },
+      {
+        "criterion": "tone",
+        "passed": false,
+        "detail": "The headline mentions a weekend but lacks the strong time pressure or call-to-action typical of an urgent tone."
+      }
+    ],
+    "error": null
+  },
+  {
+    "case_id": "c04",
+    "c04": true,
+    "version": "v2",
+    "output": "Fresh Filter Coffee Powder for your Coimbatore kitchen",
+    "grades": [
+      {
+        "criterion": "word_limit",
+        "passed": true,
+        "detail": "8 words"
+      },
+      {
+        "criterion": "mentions_product",
+        "passed": true,
+        "detail": ""
+      },
+      {
+        "criterion": "no_banned_words",
+        "passed": true,
+        "detail": ""
+      },
+      {
+        "criterion": "single_line",
+        "passed": true,
+        "detail": ""
+      },
+      {
+        "criterion": "tone",
+        "passed": true,
+        "detail": "The headline is simple, warm, and conversational, fitting a friendly tone."
+      }
+    ],
+    "error": null
+  },
+  {
+    "case_id": "c05",
+    "version": "v2",
+    "c05": true,
+    "output": "Mumbai traffic? Ignore it with Wireless Earbuds",
+    "grades": [
+      {
+        "criterion": "word_limit",
+        "passed": true,
+        "detail": "7 words"
+      },
+      {
+        "criterion": "mentions_product",
+        "passed": true,
+        "detail": ""
+      },
+      {
+        "criterion": "no_banned_words",
+        "passed": true,
+        "detail": ""
+      },
+      {
+        "criterion": "single_line",
+        "passed": true,
+        "detail": ""
+      },
+      {
+        "criterion": "tone",
+        "passed": true,
+        "detail": "The headline uses a light, witty twist on Mumbai traffic, fitting a playful tone."
+      }
+    ],
+    "error": null
+  },
+  {
+    "case_id": "c06",
+    "version": "v2",
+    "c06": true,
+    "output": "Premium Cotton Bed Sheets for New Parents in Pune",
+    "grades": [
+      {
+        "criterion": "word_limit",
+        "passed": true,
+        "detail": "9 words"
+      },
+      {
+        "criterion": "mentions_product",
+        "passed": true,
+        "detail": ""
+      },
+      {
+        "criterion": "no_banned_words",
+        "passed": true,
+        "detail": ""
+      },
+      {
+        "criterion": "single_line",
+        "passed": true,
+        "detail": ""
+      },
+      {
+        "criterion": "tone",
+        "passed": true,
+        "detail": "The headline uses calm, exclusive language with 'Premium' and a straightforward description, aligning with the elegant premium tone."
+      }
+    ],
+    "error": null
+  },
+  {
+    "case_id": "c07",
+    "version": "v2",
+    "c07": true,
+    "output": "Instant Breakfast Mix: Grab Yours Before Classes Start",
+    "grades": [
+      {
+        "criterion": "word_limit",
+        "passed": true,
+        "detail": "8 words"
+      },
+      {
+        "criterion": "mentions_product",
+        "passed": true,
+        "detail": ""
+      },
+      {
+        "criterion": "no_banned_words",
+        "passed": true,
+        "detail": ""
+      },
+      {
+        "criterion": "single_line",
+        "passed": true,
+        "detail": ""
+      },
+      {
+        "criterion": "tone",
+        "passed": true,
+        "detail": "The headline creates a sense of time pressure by urging readers to act before classes start, matching the urgent tone."
+      }
+    ],
+    "error": null
+  },
+  {
+    "case_id": "c08",
+    "version": "v2",
+    "c08": true,
+    "output": "Keep Jaipur families safe with Herbal Hand Wash",
+    "grades": [
+      {
+        "criterion": "word_limit",
+        "passed": true,
+        "detail": "8 words"
+      },
+      {
+        "criterion": "mentions_product",
+        "passed": true,
+        "detail": ""
+      },
+      {
+        "criterion": "no_banned_words",
+        "passed": true,
+        "detail": ""
+      },
+      {
+        "criterion": "single_line",
+        "passed": true,
+        "detail": ""
+      },
+      {
+        "criterion": "tone",
+        "passed": true,
+        "detail": "The headline uses simple, caring language that feels warm and conversational, fitting a friendly tone."
+      }
+    ],
+    "error": null
+  },
+  {
+    "case_id": "c09",
+    "version": "v2",
+    "c09": true,
+    "output": "Laptop Backpack: Survive Delhi college chaos",
+    "grades": [
+      {
+        "criterion": "word_limit",
+        "passed": true,
+        "detail": "6 words"
+      },
+      {
+        "criterion": "mentions_product",
+        "passed": true,
+        "detail": ""
+      },
+      {
+        "criterion": "no_banned_words",
+        "passed": true,
+        "detail": ""
+      },
+      {
+        "criterion": "single_line",
+        "passed": true,
+        "detail": ""
+      },
+      {
+        "criterion": "tone",
+        "passed": true,
+        "detail": "The headline uses a witty, lighthearted phrasing that fits a playful tone."
+      }
+    ],
+    "error": null
+  },
+  {
+    "case_id": "c10",
+    "version": "v2",
+    "c10": true,
+    "output": "Elevate Your First Home with the Ceramic Dinner Set",
+    "grades": [
+      {
+        "criterion": "word_limit",
+        "passed": true,
+        "detail": "9 words"
+      },
+      {
+        "criterion": "mentions_product",
+        "passed": true,
+        "detail": ""
+      },
+      {
+        "criterion": "no_banned_words",
+        "passed": true,
+        "detail": ""
+      },
+      {
+        "criterion": "single_line",
+        "passed": true,
+        "detail": ""
+      },
+      {
+        "criterion": "tone",
+        "passed": true,
+        "detail": "The headline uses refined, aspirational language that feels elegant and calm, aligning with a premium tone."
+      }
+    ],
+    "error": null
+  }]

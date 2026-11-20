@@ -1,0 +1,562 @@
+[
+  {
+    "case_id": "c01",
+    "version": "v1",
+    "output": "Here are a few playful ad headline options for the Rain-Shield Umbrella, tailored for college students in Chennai:\n\n**Option 1 (The \"Chennai Monsoon\" Angle):**\n> **\"Chennai\u2019s Monsoon is Uninvited. Your Rain-Shield is the Bouncer.",
+    "grades": [
+      {
+        "criterion": "word_limit",
+        "passed": false,
+        "detail": "34 words"
+      },
+      {
+        "criterion": "mentions_product",
+        "passed": true,
+        "detail": ""
+      },
+      {
+        "criterion": "no_banned_words",
+        "passed": true,
+        "detail": ""
+      },
+      {
+        "criterion": "single_line",
+        "passed": false,
+        "detail": ""
+      }
+    ],
+    "error": null
+  },
+  {
+    "case_id": "c02",
+    "version": "v1",
+    "output": "Here are a few premium ad headline options tailored for office workers in Bengaluru, focusing on sophistication, sustainability, and status:\n\n**Option 1 (Focus on Status & Sophistication):**\n> **Elevate Your Desk: The Stainless Steel Statement for Bengaluru\u2019s Modern Professional.**",
+    "grades": [
+      {
+        "criterion": "word_limit",
+        "passed": false,
+        "detail": "39 words"
+      },
+      {
+        "criterion": "mentions_product",
+        "passed": false,
+        "detail": ""
+      },
+      {
+        "criterion": "no_banned_words",
+        "passed": true,
+        "detail": ""
+      },
+      {
+        "criterion": "single_line",
+        "passed": false,
+        "detail": ""
+      }
+    ],
+    "error": null
+  },
+  {
+    "case_id": "c03",
+    "version": "v1",
+    "output": "**Kochi Runners: Don\u2019t Let the Monsoon Stop You! Grab Your All-Weather Gear Before the Weekend Downpour Hits!**",
+    "grades": [
+      {
+        "criterion": "word_limit",
+        "passed": false,
+        "detail": "17 words"
+      },
+      {
+        "criterion": "mentions_product",
+        "passed": false,
+        "detail": ""
+      },
+      {
+        "criterion": "no_banned_words",
+        "passed": true,
+        "detail": ""
+      },
+      {
+        "criterion": "single_line",
+        "passed": false,
+        "detail": ""
+      }
+    ],
+    "error": null
+  },
+  {
+    "case_id": "c04",
+    "version": "v1",
+    "output": "Here are a few friendly ad headline options for your Filter Coffee Powder, tailored for home cooks in Coimbatore:\n\n**Option 1 (Warm & Inviting):**\n\"Coimbatore\u2019s Coziest Morning: Brew the Perfect Filter Coffee at Home! \u2615\"\n\n**",
+    "grades": [
+      {
+        "criterion": "word_limit",
+        "passed": false,
+        "detail": "36 words"
+      },
+      {
+        "criterion": "mentions_product",
+        "passed": true,
+        "detail": ""
+      },
+      {
+        "criterion": "no_banned_words",
+        "passed": true,
+        "detail": ""
+      },
+      {
+        "criterion": "single_line",
+        "passed": false,
+        "detail": ""
+      }
+    ],
+    "error": null
+  },
+  {
+    "case_id": "c05",
+    "version": "v1",
+    "output": "Here are a few playful ad headline options for wireless earbuds targeting Mumbai commuters, playing on local pain points like traffic, local trains, and the hustle:\n\n**Option 1 (The \"Local Train\" Vibe):**\n> **Beat the Local\u2019s Rush, Not Your Playlist.**",
+    "grades": [
+      {
+        "criterion": "word_limit",
+        "passed": false,
+        "detail": "40 words"
+      },
+      {
+        "criterion": "mentions_product",
+        "passed": true,
+        "detail": ""
+      },
+      {
+        "criterion": "no_banned_words",
+        "passed": true,
+        "detail": ""
+      },
+      {
+        "criterion": "single_line",
+        "passed": false,
+        "detail": ""
+      }
+    ],
+    "error": null
+  },
+  {
+    "case_id": "c06",
+    "version": "v1",
+    "output": "Here are a few premium ad headline options for Cotton Bed Sheets targeting new parents in Pune, designed to evoke luxury, comfort, and trust:\n\n**Option 1 (Focus on Gentle Luxury):**\n> **Pune\u2019s Finest Cotton: Where Gentle Luxury Meets Your Baby\u2019s First Dreams.**",
+    "grades": [
+      {
+        "criterion": "word_limit",
+        "passed": false,
+        "detail": "42 words"
+      },
+      {
+        "criterion": "mentions_product",
+        "passed": true,
+        "detail": ""
+      },
+      {
+        "criterion": "no_banned_words",
+        "passed": true,
+        "detail": ""
+      },
+      {
+        "criterion": "single_line",
+        "passed": false,
+        "detail": ""
+      }
+    ],
+    "error": null
+  },
+  {
+    "case_id": "c07",
+    "version": "v1",
+    "output": "**Don\u2019t Miss Your 9 AM Class! Grab Your Instant Breakfast Before the Rush!**",
+    "grades": [
+      {
+        "criterion": "word_limit",
+        "passed": false,
+        "detail": "13 words"
+      },
+      {
+        "criterion": "mentions_product",
+        "passed": false,
+        "detail": ""
+      },
+      {
+        "criterion": "no_banned_words",
+        "passed": true,
+        "detail": ""
+      },
+      {
+        "criterion": "single_line",
+        "passed": false,
+        "detail": ""
+      }
+    ],
+    "error": null
+  },
+  {
+    "case_id": "c08",
+    "version": "v1",
+    "output": "Here are a few friendly ad headline options for Herbal Hand Wash targeting families in Jaipur:\n\n**Option 1 (Warm & Local):**\n\"Keep Your Jaipur Family Safe with Gentle, Herbal Care! \ud83c\udf3f\"\n\n**Option 2 (Playful & Relatable):**\n\"",
+    "grades": [
+      {
+        "criterion": "word_limit",
+        "passed": false,
+        "detail": "37 words"
+      },
+      {
+        "criterion": "mentions_product",
+        "passed": true,
+        "detail": ""
+      },
+      {
+        "criterion": "no_banned_words",
+        "passed": true,
+        "detail": ""
+      },
+      {
+        "criterion": "single_line",
+        "passed": false,
+        "detail": ""
+      }
+    ],
+    "error": null
+  },
+  {
+    "case_id": "c09",
+    "version": "v1",
+    "output": "Here are a few playful ad headline options for your laptop backpack, tailored for college freshers in Delhi:\n\n**Option 1 (The \"Delhi Traffic\" Angle):**\n> \"Survive the Metro, Dodge the Auto, and Keep Your Laptop Safe: Your New Delhi Survival Kit",
+    "grades": [
+      {
+        "criterion": "word_limit",
+        "passed": false,
+        "detail": "41 words"
+      },
+      {
+        "criterion": "mentions_product",
+        "passed": true,
+        "detail": ""
+      },
+      {
+        "criterion": "no_banned_words",
+        "passed": true,
+        "detail": ""
+      },
+      {
+        "criterion": "single_line",
+        "passed": false,
+        "detail": ""
+      }
+    ],
+    "error": null
+  },
+  {
+    "case_id": "c10",
+    "version": "v1",
+    "output": "Here are a few premium ad headline options for a Ceramic Dinner Set targeting newlyweds in Kolkata, crafted to evoke elegance, heritage, and the beginning of a beautiful journey together:\n\n**Option 1 (Elegant & Timeless):**\n> **Serve Your First Chapter in Timeless Elegance",
+    "grades": [
+      {
+        "criterion": "word_limit",
+        "passed": false,
+        "detail": "43 words"
+      },
+      {
+        "criterion": "mentions_product",
+        "passed": true,
+        "detail": ""
+      },
+      {
+        "criterion": "no_banned_words",
+        "passed": true,
+        "detail": ""
+      },
+      {
+        "criterion": "single_line",
+        "passed": false,
+        "detail": ""
+      }
+    ],
+    "error": null
+  },
+  {
+    "case_id": "c11",
+    "version": "v1",
+    "output": "**Last Call for Brides: Secure Your Velvet Night Silk Saree Before It\u2019s Gone!**",
+    "grades": [
+      {
+        "criterion": "word_limit",
+        "passed": false,
+        "detail": "13 words"
+      },
+      {
+        "criterion": "mentions_product",
+        "passed": true,
+        "detail": ""
+      },
+      {
+        "criterion": "no_banned_words",
+        "passed": true,
+        "detail": ""
+      },
+      {
+        "criterion": "single_line",
+        "passed": false,
+        "detail": ""
+      }
+    ],
+    "error": null
+  },
+  {
+    "case_id": "c12",
+    "version": "v1",
+    "output": "Here are a few friendly ad headline options for your Handwoven Kerala Kasavu Saree, tailored for wedding guests in Thrissur:\n\n**Option 1 (Warm & Inviting):**\n\"Thrissur Wedding Guest? \ud83c\udf38 Look Stunning in a Handwoven Kasavu",
+    "grades": [
+      {
+        "criterion": "word_limit",
+        "passed": false,
+        "detail": "35 words"
+      },
+      {
+        "criterion": "mentions_product",
+        "passed": true,
+        "detail": ""
+      },
+      {
+        "criterion": "no_banned_words",
+        "passed": true,
+        "detail": ""
+      },
+      {
+        "criterion": "single_line",
+        "passed": false,
+        "detail": ""
+      }
+    ],
+    "error": null
+  },
+  {
+    "case_id": "c13",
+    "version": "v1",
+    "output": "Here are a few playful ad headline options for Cold Pressed Coconut Hair Oil, tailored for women in Chennai:\n\n**Option 1 (The \"Chennai Heat\" Angle):**\n> \"Beat the Chennai Heat, Not Your Hair\u2019s Shine! \ud83c\udf34\u2728\"\n\n**Option 2",
+    "grades": [
+      {
+        "criterion": "word_limit",
+        "passed": false,
+        "detail": "37 words"
+      },
+      {
+        "criterion": "mentions_product",
+        "passed": true,
+        "detail": ""
+      },
+      {
+        "criterion": "no_banned_words",
+        "passed": true,
+        "detail": ""
+      },
+      {
+        "criterion": "single_line",
+        "passed": false,
+        "detail": ""
+      }
+    ],
+    "error": null
+  },
+  {
+    "case_id": "c14",
+    "version": "v1",
+    "output": "Here are a few premium ad headline options for your Solid Teak Wood Study Table, tailored for students in Mysuru:\n\n**Option 1 (Focus on Legacy & Craftsmanship):**\n> **Mysuru\u2019s Finest: Where Academic Ambition Meets Timeless Teak Craftsm",
+    "grades": [
+      {
+        "criterion": "word_limit",
+        "passed": false,
+        "detail": "37 words"
+      },
+      {
+        "criterion": "mentions_product",
+        "passed": true,
+        "detail": ""
+      },
+      {
+        "criterion": "no_banned_words",
+        "passed": true,
+        "detail": ""
+      },
+      {
+        "criterion": "single_line",
+        "passed": false,
+        "detail": ""
+      }
+    ],
+    "error": null
+  },
+  {
+    "case_id": "c15",
+    "version": "v1",
+    "output": "**Stop Wasting Time in Lines! Get Your Metro Card Now & Ride Today.**",
+    "grades": [
+      {
+        "criterion": "word_limit",
+        "passed": false,
+        "detail": "13 words"
+      },
+      {
+        "criterion": "mentions_product",
+        "passed": true,
+        "detail": ""
+      },
+      {
+        "criterion": "no_banned_words",
+        "passed": true,
+        "detail": ""
+      },
+      {
+        "criterion": "single_line",
+        "passed": false,
+        "detail": ""
+      }
+    ],
+    "error": null
+  },
+  {
+    "case_id": "c16",
+    "version": "v1",
+    "output": "Here are a few friendly ad headline options for Basmati Rice targeting home cooks in Lucknow:\n\n**Option 1 (Focus on local pride & aroma):**\n\"Lucknow\u2019s Home Chefs: Bring the Royal Aroma of Basmati to Your Next Family Feast! \ud83c\udf5a\u2728\"",
+    "grades": [
+      {
+        "criterion": "word_limit",
+        "passed": false,
+        "detail": "39 words"
+      },
+      {
+        "criterion": "mentions_product",
+        "passed": true,
+        "detail": ""
+      },
+      {
+        "criterion": "no_banned_words",
+        "passed": true,
+        "detail": ""
+      },
+      {
+        "criterion": "single_line",
+        "passed": false,
+        "detail": ""
+      }
+    ],
+    "error": null
+  },
+  {
+    "case_id": "c17",
+    "version": "v1",
+    "output": "Here are a few playful ad headline options for your yoga mat, tailored for beginners in Pune:\n\n**Option 1 (Pun-focused):**\n**\"Pune\u2019s Poses, Zero Pains: Your First Yoga Mat Just Got a Whole Lot Softer!\"**\n\n**Option 2",
+    "grades": [
+      {
+        "criterion": "word_limit",
+        "passed": false,
+        "detail": "36 words"
+      },
+      {
+        "criterion": "mentions_product",
+        "passed": true,
+        "detail": ""
+      },
+      {
+        "criterion": "no_banned_words",
+        "passed": true,
+        "detail": ""
+      },
+      {
+        "criterion": "single_line",
+        "passed": false,
+        "detail": ""
+      }
+    ],
+    "error": null
+  },
+  {
+    "case_id": "c18",
+    "version": "v1",
+    "output": "Here are a few premium-toned ad headline options for personal loans targeting salaried workers in Mumbai, categorized by the specific angle of \"premium\":\n\n### Option 1: Focus on Seamless Luxury & Ease\n> **\"Mumbai\u2019s Pace, Your Peace of Mind: Effortless Financing for",
+    "grades": [
+      {
+        "criterion": "word_limit",
+        "passed": false,
+        "detail": "42 words"
+      },
+      {
+        "criterion": "mentions_product",
+        "passed": true,
+        "detail": ""
+      },
+      {
+        "criterion": "no_banned_words",
+        "passed": true,
+        "detail": ""
+      },
+      {
+        "criterion": "single_line",
+        "passed": false,
+        "detail": ""
+      }
+    ],
+    "error": null
+  },
+  {
+    "case_id": "c19",
+    "version": "v1",
+    "output": "Here are a few urgent ad headline options for a weight-loss supplement targeting adults in Delhi, tailored to different angles of urgency:\n\n**Option 1 (Time-Sensitive/Event-Driven):**\n> **Delhi Adults: Your New Year\u2019s Resolution Expires in 7 Days! \ud83d\udea8",
+    "grades": [
+      {
+        "criterion": "word_limit",
+        "passed": false,
+        "detail": "37 words"
+      },
+      {
+        "criterion": "mentions_product",
+        "passed": true,
+        "detail": ""
+      },
+      {
+        "criterion": "no_banned_words",
+        "passed": true,
+        "detail": ""
+      },
+      {
+        "criterion": "single_line",
+        "passed": false,
+        "detail": ""
+      }
+    ],
+    "error": null
+  },
+  {
+    "case_id": "c20",
+    "version": "v1",
+    "output": "Here are a few friendly ad headline options for your Skin-Whitening Cream, tailored for young adults in Bengaluru:\n\n**Option 1 (Playful & Local):**\n\"Beat the Bengaluru Sun with a Glow That Lasts! \u2600\ufe0f\u2728\"\n\n**Option 2",
+    "grades": [
+      {
+        "criterion": "word_limit",
+        "passed": false,
+        "detail": "35 words"
+      },
+      {
+        "criterion": "mentions_product",
+        "passed": true,
+        "detail": ""
+      },
+      {
+        "criterion": "no_banned_words",
+        "passed": true,
+        "detail": ""
+      },
+      {
+        "criterion": "single_line",
+        "passed": false,
+        "detail": ""
+      }
+    ],
+    "error": null
+  }
+]
