@@ -1,10 +1,10 @@
-from groq import AsyncGroq
-from pydantic import BaseModel, ValidationError
-
 import asyncio
 import time
-from dotenv import load_dotenv
 from pathlib import Path
+
+from dotenv import load_dotenv
+from groq import AsyncGroq
+from pydantic import BaseModel, ValidationError
 
 load_dotenv(Path(__file__).resolve().parents[1] / "api-key.env")
 
@@ -25,7 +25,7 @@ async def complete(client: AsyncGroq, messages: list[dict], max_out: int = 400, 
             reasoning_effort=reasoning_effort,
         )
         return response.choices[0].message.content, response.usage.prompt_tokens, response.usage.completion_tokens, response.choices[0].finish_reason
-    except Exception as e:
+    except Exception as e:  # noqa: BLE001 — wrap any client failure as LLMOutputInvalid
         raise LLMOutputInvalid(f"failed to complete: {e}")
 
 async def get_structured[T: BaseModel](
